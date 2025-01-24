@@ -1,5 +1,3 @@
-# AudioPGM-AI
-
 AI-Driven Melody Generation and Matching
 This application leverages artificial intelligence to generate musical patterns, match them to a target melody, and allows users to extract, modify, and utilize note segments from an audio file. It combines audio processing, machine learning, and interactive visualization to create a unique musical experience.
 
@@ -196,11 +194,3 @@ This application was developed to explore the intersection of artificial intelli
 Feel free to reach out if you have any questions or need assistance with the application!
 
 Enjoy creating and exploring musical patterns with AI!
-
-
-
-
-Audio Pattern Generation and Matching
-link to Linkedin article
-https://www.linkedin.com/pulse/bridging-ai-music-technical-dive-audio-pattern-generation-group-po1ac/?trackingId=yDziENFMR%2BihHsVov3qhcg%3D%3D
-

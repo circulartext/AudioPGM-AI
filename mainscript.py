@@ -405,7 +405,7 @@ class EnhancedMelodyMatcher(MelodyMatcher):
         sim_steps = 0
         while sim_steps < sim.max_steps:
             has_changes, _ = sim.step()
-            sim_seteps += 1
+            sim_steps += 1
             if not has_changes or sim.total_audio_duration >= MAX_AUDIO_DURATION:
                 break
         # Check if total audio duration is within limit
